@@ -35,7 +35,7 @@ People with cardiovascular disease or who are at high cardiovascular risk (due t
 
 ### Sample Dataset
 
-![df](https://drive.google.com/file/d/1Pn6xwZ51Q6VDhMSRxJ9hBBe32cJrDCWR/view?usp=sharing)
+![df](https://drive.google.com/uc?export=view&id=1Pn6xwZ51Q6VDhMSRxJ9hBBe32cJrDCWR)
 
 
 
